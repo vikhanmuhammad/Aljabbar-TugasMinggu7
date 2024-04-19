@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #fff;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+.dropdown .dropdown-toggle:active{
+    pointer-events: none;
+}
+
+
+.btn-masuk:hover{
+    background-color: #47a992;
+    color: #fff;
+}
